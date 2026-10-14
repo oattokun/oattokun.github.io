@@ -1,11 +1,25 @@
 <!DOCTYPE html>
 <html lang="th">
 <head>
-    <meta charset="UTF-8">
-    <title>เว็บของ Oattokun</title>
+  <meta charset="UTF-8">
+  <title>My Personal Wiki</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
 <body>
-    <h1>ยินดีต้อนรับสู่เว็บไซต์ของฉัน! 🚀</h1>
-    <p>สร้างสำเร็จและออนไลน์เรียบร้อยแล้ว</p>
+  <div id="app">กำลังโหลด Wiki...</div>
+  <script>
+    window.$docsify = {
+      name: 'My Wiki',
+      repo: '',
+      loadSidebar: true, // เปิดใช้งานแถบเมนูด้านข้าง
+      subMaxLevel: 2,
+      search: 'auto'     // เปิดระบบค้นหา
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
