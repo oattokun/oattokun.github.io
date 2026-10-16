@@ -1,4 +1,4 @@
-# แผนปลูก 7×7 · V4: mirror บน–ล่าง
+# แผนปลูก 7x7
 
 <div class="wiki-edit-row"><a class="wiki-edit-button" href="https://github.com/oattokun/oattokun.github.io/edit/main/cashtown/plot-plan-tier-2-v4.md" target="_blank" rel="noopener">✏️ แก้ไขแผนบน GitHub</a></div>
 
