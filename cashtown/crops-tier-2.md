@@ -1,5 +1,7 @@
 # พืช Tier 2
 
+<div class="wiki-edit-row"><a class="wiki-edit-button" href="https://github.com/oattokun/oattokun.github.io/edit/main/cashtown/crops-tier-2.md" target="_blank" rel="noopener">✏️ แก้ไขข้อมูลบน GitHub</a></div>
+
 ข้อมูลสูตรคราฟต์เมล็ดที่เห็นในภาพจากเกม Cash Town ภาพนี้มีเมล็ดทั้ง Tier 2 และ Tier 3 โดยระบุ Tier ตามที่แสดงบนการ์ด
 
 ตัวเลขอย่าง `0/2` ในภาพคือจำนวนวัตถุดิบที่มีเทียบกับจำนวนที่ต้องใช้ ณ ตอนถ่ายภาพ สูตรที่ยังไม่แสดงหรือยังไม่ปลดล็อกจะเพิ่มเมื่อมีข้อมูล

@@ -1,5 +1,7 @@
 # พืช Tier 1
 
+<div class="wiki-edit-row"><a class="wiki-edit-button" href="https://github.com/oattokun/oattokun.github.io/edit/main/cashtown/crops-tier-1.md" target="_blank" rel="noopener">✏️ แก้ไขข้อมูลบน GitHub</a></div>
+
 ข้อมูลจากหน้าร้านเมล็ดพันธุ์ในเกม Cash Town ตามภาพที่ส่งมา
 
 ## กติกาแปลง

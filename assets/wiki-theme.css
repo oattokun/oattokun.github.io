@@ -213,6 +213,38 @@ a:hover {
   margin-top: 0;
 }
 
+.wiki-edit-row {
+  display: flex;
+  justify-content: flex-end;
+  margin: -0.55rem 0 1.25rem;
+}
+
+.wiki-edit-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.48rem 0.85rem;
+  border: 1px solid var(--sage-200);
+  border-radius: 999px;
+  background: linear-gradient(120deg, var(--sage-50), var(--rose-50));
+  color: var(--sage-700) !important;
+  font-size: 0.84rem;
+  font-weight: 700;
+  text-decoration: none !important;
+  box-shadow: 0 3px 10px rgba(71, 94, 72, 0.06);
+}
+
+.wiki-edit-button:hover {
+  border-color: var(--rose-200);
+  background: var(--rose-50);
+  color: #a95362 !important;
+}
+
+.wiki-edit-button:focus-visible {
+  outline: 3px solid rgba(217, 136, 145, 0.45);
+  outline-offset: 2px;
+}
+
 .markdown-section h1,
 .markdown-section h2,
 .markdown-section h3,

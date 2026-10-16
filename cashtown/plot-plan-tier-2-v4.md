@@ -1,5 +1,7 @@
 # แผนปลูก 7×7 · V4: mirror บน–ล่าง
 
+<div class="wiki-edit-row"><a class="wiki-edit-button" href="https://github.com/oattokun/oattokun.github.io/edit/main/cashtown/plot-plan-tier-2-v4.md" target="_blank" rel="noopener">✏️ แก้ไขแผนบน GitHub</a></div>
+
 ผังนี้สะท้อนแถว **1–3** ลงมาเป็นแถว **7–5** และคงแถวกลางไว้ ตำแหน่งต้นบัพจึงสมมาตรบน–ล่าง เครื่องหมาย **✓** คือช่องที่ได้รับบัพครบทั้ง 4 แถบ
 
 ![ผังแปลง 7 คูณ 7 V4 สะท้อนบนล่าง แสดงตำแหน่งต้นบัพและช่องที่ได้บัพครบสี่แถบ](../assets/cash-town-7x7-tier2-v4.svg)
