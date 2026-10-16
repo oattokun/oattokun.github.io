@@ -13,6 +13,7 @@
     .page-links a { display: inline-block; padding: 0.55rem 0.9rem; border: 1px solid var(--sage-200); border-radius: 999px; background: var(--sage-50); font-weight: 650; text-decoration: none; }
     .summary { padding: 0.9rem 1.1rem; border: 1px solid var(--sage-200); border-radius: 14px; background: linear-gradient(120deg, var(--sage-50), #fff8f7); }
     .summary strong { color: var(--sage-700); }
+    .plant-symbol { font-size: 1.45rem; line-height: 1; }
     @media (max-width: 600px) {
       body { padding: 0.5rem; }
       main.markdown-section { margin: 0.5rem auto; padding: 1.25rem 1rem 1.75rem; }
@@ -30,31 +31,32 @@
 
     <h1>แผนปลูก Cash Town 7×7 · V2</h1>
     <p class="summary">พืชเป้าหมาย <strong>12 ต้น</strong> ได้บัพครบทั้ง <strong>ดิน น้ำ เกสร และป้องกัน</strong> เพิ่มน้ำเต้าค้างจาก V1 ที่แถว 7 คอลัมน์ 4 โดยไม่ต้องย้ายต้นบัพ</p>
+    <p>ในผังใช้รูปพืชสำหรับพืชเป้าหมาย ส่วนต้นบัพใช้สัญลักษณ์ตามแถบ: 🫘 ดิน · 💧 น้ำ · ✨ เกสร · 🛡️ ป้องกัน</p>
 
     <img src="../assets/cash-town-7x7-tier2-v2.svg" alt="ผังแปลง 7 คูณ 7 เวอร์ชัน 2 แสดงตำแหน่งพืชเป้าหมายและต้นบัพ">
 
     <h2>พืชเป้าหมาย</h2>
     <p>พิกัดเขียนเป็น <strong>แถว, คอลัมน์</strong> นับจากมุมซ้ายบน โดยเริ่มที่ 1</p>
     <table>
-      <thead><tr><th>รหัส</th><th>พืช</th><th>จำนวน</th><th>ตำแหน่ง</th></tr></thead>
+      <thead><tr><th>รูป</th><th>พืช</th><th>จำนวน</th><th>ตำแหน่ง</th></tr></thead>
       <tbody>
-        <tr><td>G</td><td>น้ำเต้าค้าง</td><td>3</td><td>(1,2), (3,6), <strong>(7,4)</strong></td></tr>
-        <tr><td>E</td><td>เบอร์รี่ค้าง</td><td>2</td><td>(2,3), (2,5)</td></tr>
-        <tr><td>C</td><td>ข้าวโพดสีน้ำเงิน</td><td>2</td><td>(3,2), (5,4)</td></tr>
-        <tr><td>T</td><td>ยอดชาพุ่ม</td><td>2</td><td>(1,6), (6,3)</td></tr>
-        <tr><td>U</td><td>ทานตะวันสวน</td><td>2</td><td>(2,7), (6,5)</td></tr>
-        <tr><td>H</td><td>กระเจี๊ยบแดงสวน</td><td>1</td><td>(2,1)</td></tr>
+        <tr><td><span class="plant-symbol" aria-hidden="true">🎃</span></td><td>น้ำเต้าค้าง</td><td>3</td><td>(1,2), (3,6), <strong>(7,4)</strong></td></tr>
+        <tr><td><span class="plant-symbol" aria-hidden="true">🍓</span></td><td>เบอร์รี่ค้าง</td><td>2</td><td>(2,3), (2,5)</td></tr>
+        <tr><td><span class="plant-symbol" aria-hidden="true">🌽</span></td><td>ข้าวโพดสีน้ำเงิน</td><td>2</td><td>(3,2), (5,4)</td></tr>
+        <tr><td><span class="plant-symbol" aria-hidden="true">🌿</span></td><td>ยอดชาพุ่ม</td><td>2</td><td>(1,6), (6,3)</td></tr>
+        <tr><td><span class="plant-symbol" aria-hidden="true">🌻</span></td><td>ทานตะวันสวน</td><td>2</td><td>(2,7), (6,5)</td></tr>
+        <tr><td><span class="plant-symbol" aria-hidden="true">🌺</span></td><td>กระเจี๊ยบแดงสวน</td><td>1</td><td>(2,1)</td></tr>
       </tbody>
     </table>
 
     <h2>ตำแหน่งต้นบัพ</h2>
     <table>
-      <thead><tr><th>บัพ</th><th>พืช</th><th>จำนวน</th><th>ตำแหน่ง</th></tr></thead>
+      <thead><tr><th>สัญลักษณ์</th><th>แถบ</th><th>พืชบัพ</th><th>จำนวน</th><th>ตำแหน่ง</th></tr></thead>
       <tbody>
-        <tr><td>ดิน</td><td>ถั่วรันเนอร์</td><td>3</td><td>(2,2), (2,6), (6,4)</td></tr>
-        <tr><td>น้ำ</td><td>สตรอว์เบอร์รี่สวน</td><td>6</td><td>(1,1), (3,3), (1,5), (3,7), (5,3), (7,5)</td></tr>
-        <tr><td>ป้องกัน</td><td>ดาวเรือง</td><td>6</td><td>(1,3), (3,1), (1,7), (3,5), (5,5), (7,3)</td></tr>
-        <tr><td>เกสร</td><td>โบราจ</td><td>5</td><td>(2,4), (4,2), (4,4), (4,6), (6,2)</td></tr>
+        <tr><td><span class="plant-symbol" aria-hidden="true">🫘</span></td><td>ดิน</td><td>ถั่วรันเนอร์</td><td>3</td><td>(2,2), (2,6), (6,4)</td></tr>
+        <tr><td><span class="plant-symbol" aria-hidden="true">💧</span></td><td>น้ำ</td><td>สตรอว์เบอร์รี่สวน</td><td>6</td><td>(1,1), (3,3), (1,5), (3,7), (5,3), (7,5)</td></tr>
+        <tr><td><span class="plant-symbol" aria-hidden="true">🛡️</span></td><td>ป้องกัน</td><td>ดาวเรือง</td><td>6</td><td>(1,3), (3,1), (1,7), (3,5), (5,5), (7,3)</td></tr>
+        <tr><td><span class="plant-symbol" aria-hidden="true">✨</span></td><td>เกสร</td><td>โบราจ</td><td>5</td><td>(2,4), (4,2), (4,4), (4,6), (6,2)</td></tr>
       </tbody>
     </table>
 
