@@ -1,4 +1,3 @@
 * [หน้าแรก](README.md)
-* **บทความ**
-  * [คู่มือการใช้งาน](guide.md)
-  * [โน้ตส่วนตัว](notes.md)
+* **Cash Town**
+  * [พืช Tier 1](cashtown/crops-tier-1.md)
