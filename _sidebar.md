@@ -1,4 +1,9 @@
-* [หน้าแรก](README.md)
-* **Cash Town**
-  * [พืช Tier 1](cashtown/crops-tier-1.md)
-  * [พืช Tier 2](cashtown/crops-tier-2.md)
+- [🏡 หน้าแรก](README.md)
+- **CASH TOWN**
+  - **ข้อมูลพืช**
+    - [🌱 พืช Tier 1](cashtown/crops-tier-1.md)
+    - [🌿 พืช Tier 2](cashtown/crops-tier-2.md)
+  - **ทางลัด**
+    - [🧩 พืชที่ช่วยบัฟแปลง](cashtown/crops-tier-1.md#crop-support)
+    - [🧾 สูตรคราฟต์เมล็ด](cashtown/crops-tier-2.md#crafting-recipes)
+    - [🪙 ผลผลิตและราคาฐาน](cashtown/crops-tier-2.md#harvest-base-prices)

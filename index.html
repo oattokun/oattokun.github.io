@@ -12,11 +12,16 @@
   <div id="app">กำลังโหลด Wiki...</div>
   <script>
     window.$docsify = {
-      name: 'My Wiki',
+      name: 'Wiki ของฉัน',
       repo: '',
       loadSidebar: true, // เปิดใช้งานแถบเมนูด้านข้าง
       subMaxLevel: 2,
-      search: 'auto'     // เปิดระบบค้นหา
+      search: {
+        paths: 'auto',
+        placeholder: 'ค้นหาพืชหรือข้อมูลที่ต้องการ…',
+        noData: 'ไม่พบข้อมูลที่ค้นหา',
+        depth: 6
+      }
     }
   </script>
   <!-- Docsify v4 -->

@@ -77,15 +77,53 @@ a:hover {
   line-height: 1.65;
 }
 
+.sidebar-nav > ul {
+  padding: 0 0.15rem;
+}
+
+.sidebar-nav > ul > li {
+  margin: 0 0 0.8rem;
+}
+
+.sidebar-nav li p {
+  margin: 0;
+}
+
+.sidebar-nav > ul > li > p,
+.sidebar-nav ul ul > li > p {
+  padding: 0.42rem 0.7rem 0.25rem;
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 750;
+  letter-spacing: 0.09em;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+
+.sidebar-nav > ul > li > ul {
+  margin: 0.25rem 0 0.35rem 0.55rem;
+  padding-left: 0.5rem;
+  border-left: 1px solid var(--sage-200);
+}
+
+.sidebar-nav ul ul > li > ul {
+  margin: 0.1rem 0 0.45rem 0.25rem;
+  padding-left: 0.3rem;
+  border-left: 1px solid var(--line);
+}
+
 .sidebar-nav > ul > li > a {
   color: var(--ink);
   font-weight: 700;
 }
 
 .sidebar-nav ul li a {
+  display: block;
   border-radius: 10px;
   margin: 0.12rem 0;
   padding: 0.42rem 0.65rem;
+  color: #56645a;
+  font-size: 0.91rem;
   transition: background-color 160ms ease, color 160ms ease;
 }
 
@@ -112,6 +150,12 @@ a:hover {
   background: var(--rose-500);
 }
 
+.sidebar-nav a:focus-visible,
+.search input:focus-visible {
+  outline: 3px solid rgba(217, 136, 145, 0.55);
+  outline-offset: 2px;
+}
+
 .search {
   margin-bottom: 1rem;
   padding: 0.55rem;
@@ -123,6 +167,7 @@ a:hover {
 .search .input-wrap {
   display: flex;
   align-items: center;
+  border-radius: 9px;
 }
 
 .search .input-wrap::before {
@@ -140,6 +185,11 @@ a:hover {
 
 .search input:focus {
   box-shadow: none;
+}
+
+.search input:focus-visible {
+  outline: 0;
+  box-shadow: 0 0 0 3px rgba(115, 154, 119, 0.18);
 }
 
 .search input::placeholder {
