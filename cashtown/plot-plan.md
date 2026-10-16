@@ -2,7 +2,7 @@
 
 <div class="wiki-edit-row"><a class="wiki-edit-button" href="https://github.com/oattokun/oattokun.github.io/edit/main/cashtown/plot-plan.md" target="_blank" rel="noopener">✏️ แก้ไขแผนบน GitHub</a></div>
 
-ผังนี้สะท้อนแถว **1–3** ลงมาเป็นแถว **7–5** และคงแถวกลางไว้ ตำแหน่งต้นบัพจึงสมมาตรบน–ล่าง เครื่องหมาย **✓** คือช่องที่ได้รับบัพครบทั้ง 4 แถบ
+เครื่องหมาย **✓** คือช่องที่ได้รับบัพครบทั้ง 4 แถบ
 
 ![ผังแปลงปลูก 7x7 แสดงตำแหน่งต้นบัพและช่องที่ได้บัพครบสี่แถบ](../assets/cash-town-7x7-tier2-v4.svg)
 
