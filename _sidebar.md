@@ -4,7 +4,7 @@
     - [🌱 พืช Tier 1](cashtown/crops-tier-1.md)
     - [🌿 พืช Tier 2](cashtown/crops-tier-2.md)
   - **แผนปลูก 7x7**
-    - <a href="/cashtown/plot-plan-tier-2-v4.html" target="_self">🪞 แผนปลูก 7x7</a>
+    - <a href="/cashtown/plot-plan.html" target="_self">🪞 แผนปลูก 7x7</a>
   - **ทางลัด**
     - [🧩 พืชที่ช่วยบัฟแปลง](cashtown/crops-tier-1.md#crop-support)
     - [🧾 สูตรคราฟต์เมล็ด](cashtown/crops-tier-2.md#crafting-recipes)
