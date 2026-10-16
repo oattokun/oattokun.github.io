@@ -6,3 +6,4 @@ Wiki สำหรับรวบรวมข้อมูลเกมและห
 
 - [พืช Tier 1](cashtown/crops-tier-1.md)
 - [พืช Tier 2](cashtown/crops-tier-2.md)
+- [แผนปลูก 7×7 ให้พืชเป้าหมายได้บัพครบ](cashtown/plot-plan-tier-2.md)
