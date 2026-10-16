@@ -4,6 +4,7 @@
     - [🌱 พืช Tier 1](cashtown/crops-tier-1.md)
     - [🌿 พืช Tier 2](cashtown/crops-tier-2.md)
   - **แผนปลูก 7×7**
+    - [🗺️ V3 · ตำแหน่งต้นบัพ](https://oattokun.github.io/cashtown/plot-plan-tier-2-v3.html)
     - [🗺️ V2 · 12 ต้น](https://oattokun.github.io/cashtown/plot-plan-tier-2-v2.html)
     - [🧭 V1 · 11 ต้น](cashtown/plot-plan-tier-2.md)
   - **ทางลัด**
