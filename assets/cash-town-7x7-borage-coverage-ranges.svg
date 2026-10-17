@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="700" height="800" viewBox="0 0 700 800" role="img" aria-labelledby="title desc">
 <title id="title">แผนปลูก 7x7</title>
-<desc id="desc">ผังมีต้นบัพ 29 ช่อง รวมโบราจ 8 ต้น เส้นประสีม่วงแสดงแนวบัพเกสรแนวนอน เส้นประสีฟ้าอมเขียวแสดงแนวบัพเกสรแนวตั้ง แนวที่เข้าหากันหยุดที่ช่องกลาง 4,4 และลูกศรชี้จุดสิ้นสุด ผ่านช่องปลูก 20 ช่องที่ได้บัพครบทั้ง 4 แถบ</desc>
+<desc id="desc">ผังแปลง 7 คูณ 7 แสดงตำแหน่งผักบัพและช่องปลูก 20 ช่องที่ได้รับบัพครบทั้ง 4 แถบ</desc>
 <rect x="1" y="1" width="698" height="798" rx="26" fill="#fffefb" stroke="#e4ecdf" stroke-width="2"/>
 <text x="350" y="45" text-anchor="middle" font-family="Tahoma, Noto Sans Thai, sans-serif" font-size="25" font-weight="700" fill="#405c46">แผนปลูก 7x7</text>
-<text x="350" y="76" text-anchor="middle" font-family="Tahoma, Noto Sans Thai, sans-serif" font-size="14" fill="#68776b">เส้นประม่วง = แนวนอน · เส้นประฟ้าอมเขียว = แนวตั้ง · ลูกศรชี้จุดหยุดที่ช่อง 4,4</text>
+<text x="350" y="76" text-anchor="middle" font-family="Tahoma, Noto Sans Thai, sans-serif" font-size="14" fill="#68776b">ตำแหน่งผักบัพและช่องที่ได้รับบัพครบทั้ง 4 แถบ</text>
 <rect x="40" y="104" width="620" height="42" rx="13" fill="#f2f7ef"/>
 <text x="350" y="131" text-anchor="middle" font-family="Tahoma, Noto Sans Thai, sans-serif" font-size="14" font-weight="700" fill="#58725b">แถว 1 อยู่ด้านบน · คอลัมน์ 1 อยู่ซ้ายมือ</text>
 <text x="112" y="136" text-anchor="middle" font-family="Tahoma, sans-serif" font-size="14" font-weight="700" fill="#728176">1</text>
@@ -216,24 +216,8 @@
 <rect x="556" y="630" width="72" height="72" rx="13" fill="#dfeefe" stroke="#77a6d1" stroke-width="2"/>
 <text x="592" y="675" text-anchor="middle" font-family="Segoe UI Symbol, Tahoma, Noto Sans Thai, sans-serif" font-size="27" font-weight="750" fill="#416e9a">S</text>
 </g>
-<rect aria-label="แนวบัพโบราจแนวนอน แถว 2" x="72" y="226" width="560" height="80" rx="15" fill="none" stroke="#8e61c4" stroke-width="3.5" stroke-dasharray="10 5" pointer-events="none"/>
-<rect aria-label="แนวบัพโบราจแนวนอน แถว 4 จากซ้ายถึงช่องกลาง" x="72" y="386" width="244" height="80" rx="15" fill="none" stroke="#8e61c4" stroke-width="3.5" stroke-dasharray="10 5" pointer-events="none"/>
-<rect aria-label="แนวบัพโบราจแนวนอน แถว 4 จากขวาถึงช่องกลาง" x="388" y="386" width="244" height="80" rx="15" fill="none" stroke="#8e61c4" stroke-width="3.5" stroke-dasharray="10 5" pointer-events="none"/>
-<rect aria-label="แนวบัพโบราจแนวนอน แถว 6" x="72" y="546" width="560" height="80" rx="15" fill="none" stroke="#8e61c4" stroke-width="3.5" stroke-dasharray="10 5" pointer-events="none"/>
-<rect aria-label="แนวบัพโบราจแนวตั้ง คอลัมน์ 2" x="152" y="146" width="80" height="560" rx="15" fill="none" stroke="#168b91" stroke-width="3.5" stroke-dasharray="4 5" pointer-events="none"/>
-<rect aria-label="แนวบัพโบราจแนวตั้ง คอลัมน์ 4 จากบนถึงช่องกลาง" x="312" y="146" width="80" height="244" rx="15" fill="none" stroke="#168b91" stroke-width="3.5" stroke-dasharray="4 5" pointer-events="none"/>
-<rect aria-label="แนวบัพโบราจแนวตั้ง คอลัมน์ 4 จากล่างถึงช่องกลาง" x="312" y="462" width="80" height="244" rx="15" fill="none" stroke="#168b91" stroke-width="3.5" stroke-dasharray="4 5" pointer-events="none"/>
-<rect aria-label="แนวบัพโบราจแนวตั้ง คอลัมน์ 6" x="472" y="146" width="80" height="560" rx="15" fill="none" stroke="#168b91" stroke-width="3.5" stroke-dasharray="4 5" pointer-events="none"/>
-<g aria-label="ปลายแนวบัพโบราจหยุดที่ช่องกลาง 4,4" pointer-events="none">
-<path d="M316 420 L326 426 L316 432 Z M388 420 L378 426 L388 432 Z" fill="#8e61c4"/>
-<path d="M346 390 L352 400 L358 390 Z M346 462 L352 452 L358 462 Z" fill="#168b91"/>
-</g>
 <path d="M40 720 H660" stroke="#edf1e9" stroke-width="1.5"/>
-<path d="M45 740 H76" stroke="#8e61c4" stroke-width="3.5" stroke-dasharray="10 5"/>
-<text x="84" y="745" font-family="Tahoma, Noto Sans Thai, sans-serif" font-size="13" fill="#59675d">แนวนอน · แถว 2, 4, 6</text>
-<path d="M310 731 V751" stroke="#168b91" stroke-width="3.5" stroke-dasharray="4 5"/>
-<text x="322" y="745" font-family="Tahoma, Noto Sans Thai, sans-serif" font-size="13" fill="#59675d">แนวตั้ง · คอลัมน์ 2, 4, 6</text>
 <text x="45" y="779" font-family="Segoe UI Symbol, Tahoma, sans-serif" font-size="21" font-weight="700" fill="#5d8059">✓</text>
-<text x="68" y="777" font-family="Tahoma, Noto Sans Thai, sans-serif" font-size="13" fill="#59675d">ช่องได้บัพครบ 4 แถบ</text>
+<text x="68" y="777" font-family="Tahoma, Noto Sans Thai, sans-serif" font-size="13" fill="#59675d">ช่องได้รับบัพครบทั้ง 4 แถบ</text>
 <text x="356" y="777" font-family="Tahoma, sans-serif" font-size="13" font-weight="700" fill="#425c38">R×5 / S×8 / M×8 / P×8</text>
 </svg>

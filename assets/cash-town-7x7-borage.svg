@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="560" viewBox="0 0 480 560" role="img" aria-labelledby="title desc">
+<title id="title">ตำแหน่งวางโบราจในแปลง 7x7</title>
+<desc id="desc">วางโบราจที่ช่อง P ทั้งแปดช่อง เส้นประสีม่วงคลุมแนวนอนแถว 2 และ 6 ตลอดแนว และเข้าหาช่องกลางจากซ้ายและขวา เส้นประสีฟ้าอมเขียวคลุมแนวตั้งคอลัมน์ 2 และ 6 ตลอดแนว และเข้าหาช่องกลางจากบนและล่าง ช่องกลาง 4,4 ปลูกถั่วรันเนอร์ R</desc>
+<rect x="1" y="1" width="478" height="558" rx="22" fill="#fffefb" stroke="#e4ecdf" stroke-width="2"/>
+<text x="240" y="36" text-anchor="middle" font-family="Tahoma, Noto Sans Thai, sans-serif" font-size="22" font-weight="700" fill="#405c46">วางโบราจ</text>
+<text x="240" y="60" text-anchor="middle" font-family="Tahoma, Noto Sans Thai, sans-serif" font-size="14" fill="#68776b">P = โบราจ · R = ถั่วรันเนอร์</text>
+<text x="240" y="81" text-anchor="middle" font-family="Tahoma, Noto Sans Thai, sans-serif" font-size="13" fill="#68776b">เส้นเต็มแนว: แถว 2, 6 · คอลัมน์ 2, 6</text>
+<text x="240" y="100" text-anchor="middle" font-family="Tahoma, Noto Sans Thai, sans-serif" font-size="13" fill="#68776b">แนวแถว/คอลัมน์ 4 หยุดที่ R กลาง (4,4)</text>
+<text x="102" y="124" text-anchor="middle" font-family="Tahoma, sans-serif" font-size="13" font-weight="700" fill="#728176">1</text>
+<text x="146" y="124" text-anchor="middle" font-family="Tahoma, sans-serif" font-size="13" font-weight="700" fill="#728176">2</text>
+<text x="190" y="124" text-anchor="middle" font-family="Tahoma, sans-serif" font-size="13" font-weight="700" fill="#728176">3</text>
+<text x="234" y="124" text-anchor="middle" font-family="Tahoma, sans-serif" font-size="13" font-weight="700" fill="#728176">4</text>
+<text x="278" y="124" text-anchor="middle" font-family="Tahoma, sans-serif" font-size="13" font-weight="700" fill="#728176">5</text>
+<text x="322" y="124" text-anchor="middle" font-family="Tahoma, sans-serif" font-size="13" font-weight="700" fill="#728176">6</text>
+<text x="366" y="124" text-anchor="middle" font-family="Tahoma, sans-serif" font-size="13" font-weight="700" fill="#728176">7</text>
+<text x="56" y="159" text-anchor="middle" font-family="Tahoma, sans-serif" font-size="13" font-weight="700" fill="#728176">1</text>
+<text x="56" y="203" text-anchor="middle" font-family="Tahoma, sans-serif" font-size="13" font-weight="700" fill="#728176">2</text>
+<text x="56" y="247" text-anchor="middle" font-family="Tahoma, sans-serif" font-size="13" font-weight="700" fill="#728176">3</text>
+<text x="56" y="291" text-anchor="middle" font-family="Tahoma, sans-serif" font-size="13" font-weight="700" fill="#728176">4</text>
+<text x="56" y="335" text-anchor="middle" font-family="Tahoma, sans-serif" font-size="13" font-weight="700" fill="#728176">5</text>
+<text x="56" y="379" text-anchor="middle" font-family="Tahoma, sans-serif" font-size="13" font-weight="700" fill="#728176">6</text>
+<text x="56" y="423" text-anchor="middle" font-family="Tahoma, sans-serif" font-size="13" font-weight="700" fill="#728176">7</text>
+<rect x="82" y="134" width="304" height="304" rx="8" fill="#f7f8f4" stroke="#e2e9df" stroke-width="1"/>
+<g fill="none" stroke="#8e61c4" stroke-width="3" stroke-dasharray="10 5" pointer-events="none">
+<rect aria-label="แนวนอน แถว 2 เต็มแนว" x="78" y="174" width="312" height="48" rx="11"/>
+<rect aria-label="แนวนอน แถว 6 เต็มแนว" x="78" y="350" width="312" height="48" rx="11"/>
+<rect aria-label="แนวนอน แถว 4 จากซ้ายถึงช่องกลาง" x="78" y="262" width="136" height="48" rx="11"/>
+<rect aria-label="แนวนอน แถว 4 จากขวาถึงช่องกลาง" x="254" y="262" width="136" height="48" rx="11"/>
+</g>
+<g fill="none" stroke="#168b91" stroke-width="3" stroke-dasharray="4 5" pointer-events="none">
+<rect aria-label="แนวตั้ง คอลัมน์ 2 เต็มแนว" x="122" y="130" width="48" height="312" rx="11"/>
+<rect aria-label="แนวตั้ง คอลัมน์ 6 เต็มแนว" x="298" y="130" width="48" height="312" rx="11"/>
+<rect aria-label="แนวตั้ง คอลัมน์ 4 จากบนถึงช่องกลาง" x="210" y="130" width="48" height="136" rx="11"/>
+<rect aria-label="แนวตั้ง คอลัมน์ 4 จากล่างถึงช่องกลาง" x="210" y="306" width="48" height="136" rx="11"/>
+</g>
+<path d="M122 134 V438 M166 134 V438 M210 134 V438 M254 134 V438 M298 134 V438 M342 134 V438 M82 174 H386 M82 218 H386 M82 262 H386 M82 306 H386 M82 350 H386 M82 394 H386" fill="none" stroke="#dfe6dc" stroke-width="1"/>
+<g fill="#eee5f8" stroke="#a38bc1" stroke-width="1.5">
+<rect x="214" y="134" width="40" height="40" rx="6"/><rect x="214" y="178" width="40" height="40" rx="6"/>
+<rect x="82" y="266" width="40" height="40" rx="6"/><rect x="126" y="266" width="40" height="40" rx="6"/>
+<rect x="302" y="266" width="40" height="40" rx="6"/><rect x="346" y="266" width="40" height="40" rx="6"/>
+<rect x="214" y="354" width="40" height="40" rx="6"/><rect x="214" y="398" width="40" height="40" rx="6"/>
+</g>
+<rect x="214" y="266" width="40" height="40" rx="6" fill="#dcebd7" stroke="#80a278" stroke-width="1.5"/>
+<g fill="#8e61c4" aria-hidden="true"><path d="M198 279 L205 286 L198 293 Z M262 279 L255 286 L262 293 Z"/></g>
+<g fill="#168b91" aria-hidden="true"><path d="M219 260 L226 267 L233 260 Z M219 312 L226 305 L233 312 Z"/></g>
+<g text-anchor="middle" font-family="Segoe UI Symbol, Tahoma, Noto Sans Thai, sans-serif" font-size="21" font-weight="750" fill="#665080">
+<text x="234" y="162">P</text><text x="234" y="206">P</text>
+<text x="102" y="294">P</text><text x="146" y="294">P</text>
+<text x="322" y="294">P</text><text x="366" y="294">P</text>
+<text x="234" y="382">P</text><text x="234" y="426">P</text>
+</g>
+<text x="234" y="291" text-anchor="middle" font-family="Segoe UI Symbol, Tahoma, Noto Sans Thai, sans-serif" font-size="21" font-weight="750" fill="#486b48">R</text>
+<path d="M40 454 H440" stroke="#edf1e9" stroke-width="1.5"/>
+<rect x="46" y="466" width="22" height="22" rx="5" fill="#eee5f8" stroke="#a38bc1"/>
+<text x="57" y="482" text-anchor="middle" font-family="Segoe UI Symbol, Tahoma, Noto Sans Thai, sans-serif" font-size="15" font-weight="700" fill="#665080">P</text>
+<text x="76" y="482" font-family="Tahoma, Noto Sans Thai, sans-serif" font-size="13" fill="#59675d">โบราจ</text>
+<rect x="160" y="466" width="22" height="22" rx="5" fill="#dcebd7" stroke="#80a278"/>
+<text x="171" y="482" text-anchor="middle" font-family="Segoe UI Symbol, Tahoma, Noto Sans Thai, sans-serif" font-size="15" font-weight="700" fill="#486b48">R</text>
+<text x="190" y="482" font-family="Tahoma, Noto Sans Thai, sans-serif" font-size="13" fill="#59675d">ถั่วรันเนอร์</text>
+<path d="M54 514 H84" stroke="#8e61c4" stroke-width="3" stroke-dasharray="10 5"/>
+<text x="92" y="519" font-family="Tahoma, Noto Sans Thai, sans-serif" font-size="13" fill="#59675d">แนวนอน</text>
+<path d="M242 503 V523" stroke="#168b91" stroke-width="3" stroke-dasharray="4 5"/>
+<text x="256" y="519" font-family="Tahoma, Noto Sans Thai, sans-serif" font-size="13" fill="#59675d">แนวตั้ง</text>
+</svg>

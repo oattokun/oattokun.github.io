@@ -402,3 +402,33 @@ a:hover {
   border-radius: 22px;
   box-shadow: 0 12px 30px rgba(71, 94, 72, 0.08);
 }
+
+.markdown-section:has(.plot-plan-pair) {
+  max-width: 1360px;
+}
+
+.plot-plan-pair {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  align-items: start;
+  gap: 1rem;
+}
+
+.markdown-section .plot-plan-pair img {
+  display: block;
+  width: 100%;
+  max-width: none;
+  height: auto;
+  margin: 1.2rem 0 1.8rem;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  box-shadow: 0 12px 30px rgba(71, 94, 72, 0.08);
+}
+
+@media (max-width: 1200px) {
+  .plot-plan-pair {
+    grid-template-columns: minmax(0, 1fr);
+    max-width: 700px;
+    margin-inline: auto;
+  }
+}
