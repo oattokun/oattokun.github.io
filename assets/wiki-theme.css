@@ -219,6 +219,22 @@ a:hover {
   margin: -0.55rem 0 1.25rem;
 }
 
+.wiki-warning {
+  margin: 1rem 0 1.25rem;
+  padding: 0.9rem 1.1rem;
+  border: 1px solid #edc77a;
+  border-left: 6px solid #d99c34;
+  border-radius: 12px;
+  background: #fff6df;
+  color: #684c1f;
+  font-weight: 650;
+  line-height: 1.75;
+}
+
+.wiki-warning strong {
+  color: #805615;
+}
+
 .wiki-edit-button {
   display: inline-flex;
   align-items: center;
